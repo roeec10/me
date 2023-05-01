@@ -1,0 +1,44 @@
+{
+    "os": "Windows-10-10.0.22621-SP0",
+    "python": "3.9.13",
+    "heartbeatAt": "2023-04-30T18:49:33.192215",
+    "startedAt": "2023-04-30T18:49:30.463211",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "C:\\Users\\roeec\\OneDrive - post.bgu.ac.il\\Desktop\\PycharmProjects\\ID3\\result_summery.py",
+    "codePath": "result_summery.py",
+    "host": "Roee",
+    "username": "roeec",
+    "executable": "C:\\Users\\roeec\\OneDrive - post.bgu.ac.il\\Desktop\\PycharmProjects\\ID3\\venv\\Scripts\\python.exe",
+    "cpu_count": 14,
+    "cpu_count_logical": 20,
+    "cpu_freq": {
+        "current": 2300.0,
+        "min": 0.0,
+        "max": 2300.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2300.0,
+            "min": 0.0,
+            "max": 2300.0
+        }
+    ],
+    "disk": {
+        "total": 474.71581649780273,
+        "used": 133.33687210083008
+    },
+    "gpu": "NVIDIA GeForce RTX 3060 Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3060 Laptop GPU",
+            "memory_total": 6442450944
+        }
+    ],
+    "memory": {
+        "total": 15.731559753417969
+    }
+}
